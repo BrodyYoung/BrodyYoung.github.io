@@ -1,4 +1,4 @@
-# Blog Title :link: https://BrodyYoung.github.io 
+# BrodyYoung :link: https://BrodyYoung.github.io 
 ### :page_facing_up: [1](https://BrodyYoung.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 3282 
